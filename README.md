@@ -7,4 +7,4 @@ A directory of all relevant Computer Science coursework and projects I've comple
 
 ### **[CMSI 186: Programming Laboratory (java)](https://github.com/asrouji/cmsi186)**
 
-### **[CMSI 298: Web Application Practicum (react.js)](https://github.com/asrouji/cmsi186)**
+### **[CMSI 298: Web Application Practicum (react.js)](https://github.com/asrouji/cmsi298)**
