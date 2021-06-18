@@ -1,5 +1,5 @@
 # LMU Coursework
-A directory of all relevant Computer Science courses and projects I've completed at LMU
+A directory of all relevant Computer Science coursework and projects I've completed at LMU
 
 ## Courses
 
